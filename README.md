@@ -53,11 +53,11 @@ Replaced Store column with Store's average Sales as we can neither classify Stor
 One hot encoded categorical columns like StoreType , Assortment , StateHoliday , PromoInterval.
 
 <h2>Model Selection</h2>
-The dataset is split into three parts :
-train_df : 01-01-2013 - 31-05-2015
-validation_df : 01-06-2015 - 31-06-2015
-test_df : 01-07-2015 - 31-07-2015
-Baseline model is the average sales of a particular Store and RMSE for baseline model is RMSE of training dataset  1957.6067285072904
-RMSE of validation dataset  2205.5202719243725
-RMSE of test dataset  1740.1523045840597 
+The dataset is split into three parts :<br>
+train_df : 01-01-2013 - 31-05-2015<br>
+validation_df : 01-06-2015 - 31-06-2015<br>
+test_df : 01-07-2015 - 31-07-2015<br>
+Baseline model is the average sales of a particular Store and RMSE for baseline model is RMSE of training dataset  1957.6067285072904<br>
+RMSE of validation dataset  2205.5202719243725<br>
+RMSE of test dataset  1740.1523045840597 <br>
 
